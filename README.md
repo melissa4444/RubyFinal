@@ -45,7 +45,7 @@ gem install rainbow
  ruby /Users/melissan/Desktop/fall-2021/OO-design-683/RubyFinal/main.rb
 
 
-### key map - still working on logic 
+### key map 
 
 
     KEYMAP = {
@@ -71,3 +71,4 @@ gem install rainbow
     "\u0003" => :ctrl_c,
     }
 
+ - still working on logic
