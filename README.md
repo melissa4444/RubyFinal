@@ -3,7 +3,8 @@
 ## Chess Game 
 
 FIRST
-
+    - sudo install gems
+    
     - CREATE CLASSES FOR THE BOARD AND DISPLAY (JUST LIKE TICTACTOA)
 
     - CREATE FOLDER TO HOLD DIFFERENET PIECES 
